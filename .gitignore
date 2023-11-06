@@ -162,3 +162,4 @@ cython_debug/
 # Visual studio code
 .vscode/
 .idea/
+*.ipynb
